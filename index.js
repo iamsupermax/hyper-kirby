@@ -6,7 +6,7 @@ const yaml = require('js-yaml');
 
 const filepaths = {
   backgrounds: path.resolve(__dirname, 'backgrounds'),
-  gifs: path.resolve(__dirname, 'pokecursors')
+  gifs: path.resolve(__dirname, 'cursors')
 };
 
 const colorSchemes = {
