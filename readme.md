@@ -179,91 +179,14 @@ Also, completely omitting the `poketab` option from your `.hyper.js` will have t
 		<br/>
 </div>
 
-## Available Themes
 
-You can preview in detail all of the available themes [here](https://klaussinani.github.io/hyper-pokemon).
+#### Theme
 
-#### Pokémon Types
-
-<details>
-<summary>List of all available Pokémon Types.</summary>
+<summary>List of all available characters.</summary>
 
 <br/>
 
-* `Legendary`
-* `Starter`
-* `Fire`
-* `Water`
-* `Grass`
-* `Poison`
-* `Flying`
-* `Bug`
-* `Electric`
-* `Ground`
-* `Fairy`
-* `Normal`
-* `Psychic`
-* `Ghost`
-* `Rock`
-* `Ice`
-* `Dragon`
-* `Fighting`
-* `Steel`
-
-<br/>
-
-</details><br/>
-
-#### Pokémon Trainers
-
-<details>
-<summary>List of all available Pokémon Trainers.</summary>
-
-<br/>
-
-* `Ash`
-* `Agatha`
-* `Blaine`
-* `Brock`
-* `Bruno`
-* `Erika`
-* `Gary`
-* `Giovanni`
-* `James`
-* `Jessie`
-* `Koga`
-* `Lance`
-* `Lorelei`
-* `Surge`
-* `Misty`
-* `Sabrina`
-
-<br/>
-
-</details><br/>
-
-## Related
-
-- [Hyperocean](https://github.com/klaussinani/hyperocean) - Deep oceanic blue Hyper theme. 
-- [Hyper Star Wars](https://github.com/klaussinani/hyper-star-wars) - Star Wars themes for your Hyper terminal.
-- [Pikachu Syntax](https://atom.io/packages/pikachu-syntax) - Pikachu Atom theme.
-- [Itermocean](https://github.com/klaussinani/itermocean) - Deep oceanic blue iTerm theme.
-
-## Team
-
-- Klaudio Sinani [(@klaudiosinani)](https://github.com/klaudiosinani)
-- Mario Sinani [(@mariosinani)](https://github.com/mariosinani)
-- Thanasis Gkanos [(@ThanasisGkanos)](https://github.com/ThanasisGkanos)
-- George Baxopoulos [(@georgebax)](https://github.com/georgebax)
-- Gabriel Tibúrcio [(@tibuurcio)](https://github.com/tibuurcio)
-
-## Sponsors
-
-A big thank you to all the people and companies supporting our Open Source work:
-
-- [Better Stack: Spot, Resolve, and Prevent Downtime.](https://betterstack.com/)
-
-## License
+* `Kirby`
 
 ## Credits
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.[MIT](https://github.com/klaussinani/hyper-pokemon/blob/master/license.md)
