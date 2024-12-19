@@ -1,38 +1,15 @@
 <h1 align="center">
-  <img src="media/logo.png" width="28%"><br/>Hyper Pokemon
+  <img src="media/logo.png" width="28%"><br/>Hyper Kirby
 </h1>
 
 <h4 align="center">
-  Tailor-made Pokémon themes for your Hyper terminal
+  Tailor-made Kirby theme for your Hyper terminal
 </h4>
 
 <div align="center">
-      <a href="https://github.com/klaussinani/hyper-pokemon">
-        <img src="media/screen.png" alt="Hyper Pokemon" width="99%">
+      <a href="https://github.com/imsupermax/hyper-kirby">
+        <img src="media/screen.png" alt="Hyper Kirby" width="99%">
       </a>
-</div>
-
-<p align="center">
-  <a href="https://travis-ci.org/klaussinani/hyper-pokemon">
-    <img alt="Build Status" src="https://travis-ci.org/klaussinani/hyper-pokemon.svg?branch=master">
-  </a>
-  <a href="https://github.com/bnb/awesome-hyper">
-    <img alt="npm" src="https://awesome.re/mentioned-badge.svg">
-  </a>
-</p>
-
-<div align="center">
-  <br>
-  <sup><b>Sponsored by:</b></sup>
-  <br>
-  <a href="https://betterstack.com">
-    <div>
-      <img src="https://github.com/Seldaek/monolog/assets/183678/7de58ce0-2fa2-45c0-b3e8-e60cebb3c4cf" width="200" alt="Better Stack">
-    </div>
-    <sup>
-      Spot, Resolve, and Prevent Downtime.
-    </sup>
-  </a>
 </div>
 
 ## Contents
