@@ -42,7 +42,6 @@
 - [Usage](#usage)
 - [Options](#options)
 - [Available Themes](#available-themes)
-- [Related](#related)
 - [Credits](#credits)
 
 ## Description
