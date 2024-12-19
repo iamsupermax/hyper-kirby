@@ -43,64 +43,40 @@
 - [Options](#options)
 - [Available Themes](#available-themes)
 - [Related](#related)
-- [Team](#team)
-- [Sponsors](#sponsors)
-- [License](#license)
+- [Credits](#credits)
 
 ## Description
 
-Made for Pokémon enthusiasts by Pokémon enthusiasts.
-
-All of the wonderful Pokémon backgrounds were created by the amazing [Teej/TopHat](https://pldh.net/gallery/the493), [MapleRose](https://twitter.com/PokeWalls) & [Ferretdayo](http://ferretdayo.github.io).
-
-Come over to [Gitter](https://gitter.im/klaussinani/hyper-pokemon) or [Twitter](https://twitter.com/klaussinani) to share your thoughts on the project.
-
-Visit the [contributing guidelines](https://github.com/klaussinani/hyper-pokemon/blob/master/contributing.md#translating-documentation) to learn more on how to translate this document into more languages.
-
-## Vote the next Region
-
-Vote for the Pokémon Region you want to see themes from next.<br/>
-In essence, this poll will determine the creation order of all Pokémon Regions.<br/>
-The poll will be kept alive until the project's completion, when all **600+** themes will be available.
-
-[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Johto)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Johto/vote)
-[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Hoenn)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Hoenn/vote)
-[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Sinnoh)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Sinnoh/vote)
-[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Unova)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Unova/vote)
-[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Kalos)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Kalos/vote)
-
-<sub>Poll powered by [tj/gh-polls](https://github.com/tj/gh-polls)</sub>
+Kirby Theme for Hyper.
 
 ## Install
 
-### Hyper Store
-
-Get the theme on the official [Hyper Store](https://hyper.is/store/hyper-pokemon).
+...
 
 ### Using the plugin manager - `hyper`
 
 Firstly, ensure you have [Hyper](https://github.com/zeit/hyper/releases) installed in your system.
 
-Once done with that, install the `hyper-pokemon` theme.
+Once done with that, install the `hyper-kirby` theme.
 
 ```bash
 # fire up a terminal and type 
-$ hyper i hyper-pokemon
+$ hyper i hyper-kirby
 ```
 
 ### Manually through `.hyper.js`
 
-Add `hyper-pokemon` to the plugins list in your `~/.hyper.js` config file and restart Hyper.
+Add `hyper-kirby` to the plugins list in your `~/.hyper.js` config file and restart Hyper.
 
 ```js
-plugins: ['hyper-pokemon']
+plugins: ['hyper-kirby']
 ```
 
 ## Usage
 
-Once you have installed `hyper-pokemon`, it's time to set your favorite theme.
+Once you have installed `hyper-kirby`, it's time to set your favorite theme.
 
-Go to your `~/.hyper.js` and add the `pokemon` option below the `colors` object, and define your theme of choice.
+Go to your `~/.hyper.js` and add the `character` option below the `colors` object, and define your theme of choice.
 
 Here is a quick example, where we choose the `gengar` ![](pokecursors/gengar.gif) theme, with a `unibody` color for the window header & dark terminal tabs.
 
